@@ -28,4 +28,4 @@ repository plan, the service boundaries, the desired-state model, and the brand.
 
 ## License
 
-Rackmarshal is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+Rackmarshal is licensed under the [Apache License 2.0](../LICENSE).
